@@ -1,3 +1,5 @@
+![Langterm](langterm.png)
+
 # Langterm
 
 Langterm translates natural language to executable shell commands using local AI models through Ollama. It works on Windows, macOS, and Linux.

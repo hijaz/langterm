@@ -1,6 +1,6 @@
 {
   "name": "langterm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Translate natural language to shell commands using local AI",
   "main": "index.js",
   "type": "module",
