@@ -102,4 +102,4 @@ All processing happens locally on your machine. No data is sent to external serv
 
 ## License
 
-ISC
+MIT
