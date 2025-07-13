@@ -5,7 +5,8 @@
       "Bash(npm unlink:*)",
       "Bash(unset:*)",
       "Bash(npm link:*)",
-      "Bash(langterm:*)"
+      "Bash(langterm:*)",
+      "Bash(rm:*)"
     ],
     "deny": []
   }
