@@ -1,0 +1,10 @@
+.git/
+.gitignore
+.vscode/
+.idea/
+*.log
+.DS_Store
+test/
+docs/
+.github/
+.langtermrc

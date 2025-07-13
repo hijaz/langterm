@@ -1,0 +1,42 @@
+{
+  "name": "langterm",
+  "version": "1.0.0",
+  "description": "Translate natural language to shell commands using local AI",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "langterm": "./index.js"
+  },
+  "preferGlobal": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "ollama",
+    "ai",
+    "shell",
+    "command-line",
+    "natural-language",
+    "terminal",
+    "bash",
+    "zsh"
+  ],
+  "author": "hijaz",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hijaz/langterm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hijaz/langterm/issues"
+  },
+  "homepage": "https://github.com/hijaz/langterm#readme",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "node-fetch": "^3.3.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
